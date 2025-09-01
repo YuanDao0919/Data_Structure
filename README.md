@@ -1,7 +1,7 @@
 # Data_Structure
 Simple implementations of some basic data structures 
 ## Table of Contents
-### Array
+### [Array](./Array)
 ### Linked List
 ### Doubly Linked List
 ### Stack
